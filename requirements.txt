@@ -1,0 +1,3 @@
+streamlit~=1.13.0
+pandas~=1.5.1
+snscrape~=0.4.3.20220106
